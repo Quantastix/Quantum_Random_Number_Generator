@@ -15,7 +15,7 @@ PURPLE = (255, 0, 255)
  
 
 while True:
-    speed = input('How fast do you want the labyrinth to move? [Awnser (seconds): 1, 3, 5, 10] >>>')
+    speed = input('How fast do you want the labyrinth to move? [Answer (seconds): 1, 3, 5, 10] >>>')
     if speed == '1':
         speed = 60
         break
@@ -33,7 +33,7 @@ while True:
         print('Please enter 1, 3, 5 or 10')
        
 while True:
-    speed = input('How fast do you want the labyrinth to move? [Awnser (seconds): 1, 3, 5, 10] >>>')
+    speed = input('How fast do you want the labyrinth to move? [Answer (seconds): 1, 3, 5, 10] >>>')
     if speed == '1':
         speed = 60
         break
