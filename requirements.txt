@@ -1,4 +1,4 @@
-Django==2.1.5
+Django==2.2.24
 psycopg2==2.8.2
 pytz==2018.9
 Pygame > 1.9.6
